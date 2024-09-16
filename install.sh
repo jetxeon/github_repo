@@ -1,1 +1,2 @@
 echo nihao
+echo vscode
